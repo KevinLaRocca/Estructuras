@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\Estructuras\Pila\Pila\bin\Debug\Pila.exe.config
+C:\Users\Usuario\Desktop\Estructuras\Pila\Pila\bin\Debug\Pila.exe
+C:\Users\Usuario\Desktop\Estructuras\Pila\Pila\bin\Debug\Pila.pdb
+C:\Users\Usuario\Desktop\Estructuras\Pila\Pila\obj\Debug\Pila.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Estructuras\Pila\Pila\obj\Debug\Pila.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Estructuras\Pila\Pila\obj\Debug\Pila.exe
+C:\Users\Usuario\Desktop\Estructuras\Pila\Pila\obj\Debug\Pila.pdb
+C:\Users\Usuario\Desktop\Estructuras\Pila\bin\Debug\Pila.exe.config
+C:\Users\Usuario\Desktop\Estructuras\Pila\bin\Debug\Pila.exe
+C:\Users\Usuario\Desktop\Estructuras\Pila\bin\Debug\Pila.pdb
+C:\Users\Usuario\Desktop\Estructuras\Pila\obj\Debug\Pila.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Estructuras\Pila\obj\Debug\Pila.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Estructuras\Pila\obj\Debug\Pila.exe
+C:\Users\Usuario\Desktop\Estructuras\Pila\obj\Debug\Pila.pdb

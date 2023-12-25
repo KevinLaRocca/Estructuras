@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\Estructuras\Cola\Cola\bin\Debug\Cola.exe.config
+C:\Users\Usuario\Desktop\Estructuras\Cola\Cola\bin\Debug\Cola.exe
+C:\Users\Usuario\Desktop\Estructuras\Cola\Cola\bin\Debug\Cola.pdb
+C:\Users\Usuario\Desktop\Estructuras\Cola\Cola\obj\Debug\Cola.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Estructuras\Cola\Cola\obj\Debug\Cola.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Estructuras\Cola\Cola\obj\Debug\Cola.exe
+C:\Users\Usuario\Desktop\Estructuras\Cola\Cola\obj\Debug\Cola.pdb
