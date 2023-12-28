@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\Estructuras\ListaDoblementeEnlazada\ListaDoblementeEnlazada\bin\Debug\ListaDoblementeEnlazada.exe.config
+C:\Users\Usuario\Desktop\Estructuras\ListaDoblementeEnlazada\ListaDoblementeEnlazada\bin\Debug\ListaDoblementeEnlazada.exe
+C:\Users\Usuario\Desktop\Estructuras\ListaDoblementeEnlazada\ListaDoblementeEnlazada\bin\Debug\ListaDoblementeEnlazada.pdb
+C:\Users\Usuario\Desktop\Estructuras\ListaDoblementeEnlazada\ListaDoblementeEnlazada\obj\Debug\ListaDoblementeEnlazada.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Estructuras\ListaDoblementeEnlazada\ListaDoblementeEnlazada\obj\Debug\ListaDoblementeEnlazada.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Estructuras\ListaDoblementeEnlazada\ListaDoblementeEnlazada\obj\Debug\ListaDoblementeEnlazada.exe
+C:\Users\Usuario\Desktop\Estructuras\ListaDoblementeEnlazada\ListaDoblementeEnlazada\obj\Debug\ListaDoblementeEnlazada.pdb
