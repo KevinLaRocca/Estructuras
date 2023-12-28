@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+//Abajo de todo explico la diferencia entre esta y la lista circular doblemente enlazada
 namespace Lista_simplemente_enlazada
 {
     internal class ListaDoble
@@ -111,3 +111,8 @@ namespace Lista_simplemente_enlazada
         }
     }
 }
+//A diferencia de esta, la lista circular doblemente enlazada es una lista que el último apunta al primero, y el primero apunta al último
+//además de que el primero apunta a su correspondiente siguiente y el último a su correspondiente anterior.
+//La manera de programarlo sería que cuando agregamos un nodo y modificamos el último, este tenga un "siguiente" al primero, y el primero apunte a este nuevo último
+//Cuando eliminamos un nodo, lo que podríamos hacer es: Si eliminamos uno intermedio no pasa nada, si eliminamos el último por ejemplo, entonces el último pasa a ser "el anterior" al último y el siguiente de este apuntará al primero, además de que el "anterior" del primero apunte al último.
+//Similar a eliminar el primero. Modificamos nuestro primero y el anterior de este será el último, el siguiente del último será este nuevo "primero" que tenemos actualmente.
