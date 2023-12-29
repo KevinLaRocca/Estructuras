@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\Estructuras\Arbol binario\Arbol binario\bin\Debug\Arbol binario.exe.config
+C:\Users\Usuario\Desktop\Estructuras\Arbol binario\Arbol binario\bin\Debug\Arbol binario.exe
+C:\Users\Usuario\Desktop\Estructuras\Arbol binario\Arbol binario\bin\Debug\Arbol binario.pdb
+C:\Users\Usuario\Desktop\Estructuras\Arbol binario\Arbol binario\obj\Debug\Arbol binario.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Estructuras\Arbol binario\Arbol binario\obj\Debug\Arbol binario.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Estructuras\Arbol binario\Arbol binario\obj\Debug\Arbol binario.exe
+C:\Users\Usuario\Desktop\Estructuras\Arbol binario\Arbol binario\obj\Debug\Arbol binario.pdb
