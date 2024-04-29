@@ -10,7 +10,8 @@ namespace Lista_simplemente_enlazada
     {
         private Nodo primero;
         private Nodo ultimo;
-
+        private int len;
+        
         public void listaDoble()
         {
             primero = null;
@@ -33,6 +34,8 @@ namespace Lista_simplemente_enlazada
                 ultimo.Siguiente = elemento;
                 ultimo = elemento;
             }
+
+            len+=1;
         }
 
 
@@ -100,14 +103,7 @@ namespace Lista_simplemente_enlazada
 
         public int longitud()
         {
-            Nodo actual = primero;
-            int i = 0;
-            while (actual != null)
-            {
-                i++;
-                actual = actual.Siguiente;
-            }
-            return i;
+           return len;
         }
     }
 }
